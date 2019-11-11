@@ -1,0 +1,4 @@
+Nov 01, 2019 10:23:51 AM com.mmi.Example.Logger main
+WARNING: Warning Message
+Nov 01, 2019 10:23:52 AM com.mmi.Example.Logger main
+SEVERE: Severe Message
